@@ -16,8 +16,7 @@
 #   parameter="False":        This indicates that the results file doesn't already exist. It's best to not change this parameter.
 # Finally, it will show an image of the result. This is probably the best way to visualize the results of this program, so pay attention to this.
 #
-# PLEASE NOTE: This code requires the python CIFAR-10 dataset unzipped in a /data folder. Otherwise, there will be an error.
-#
+# PLEASE NOTE: This code requires the python CIFAR-10 dataset unzipped in a /data folder. Otherwise, there will be an error. If you do not wish to move the entire dataset like set, it is also OKAY to move the first training batch and ONLY the first training batch of data.	
 # ### HAVE FUN! ###
 
 
